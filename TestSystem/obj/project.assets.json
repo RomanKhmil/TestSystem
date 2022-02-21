@@ -8,19 +8,24 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Kvas\\.nuget\\packages\\": {}
+    "C:\\Users\\Dell\\.nuget\\packages\\": {},
+    "D:\\Programs\\VisualStudio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kvas\\source\\repos\\TestSystem\\TestSystem\\TestSystem\\TestSystem.csproj",
+      "projectUniqueName": "D:\\UNIVERSITY\\4-year\\2-nd_semester\\Industrial_Software_Development\\TestSystem\\TestSystem\\TestSystem.csproj",
       "projectName": "TestSystem",
-      "projectPath": "C:\\Users\\Kvas\\source\\repos\\TestSystem\\TestSystem\\TestSystem\\TestSystem.csproj",
-      "packagesPath": "C:\\Users\\Kvas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kvas\\source\\repos\\TestSystem\\TestSystem\\TestSystem\\obj\\",
+      "projectPath": "D:\\UNIVERSITY\\4-year\\2-nd_semester\\Industrial_Software_Development\\TestSystem\\TestSystem\\TestSystem.csproj",
+      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+      "outputPath": "D:\\UNIVERSITY\\4-year\\2-nd_semester\\Industrial_Software_Development\\TestSystem\\TestSystem\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Programs\\VisualStudio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Kvas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +68,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
